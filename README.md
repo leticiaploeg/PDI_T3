@@ -1,4 +1,4 @@
-#PDI - T3
+# PDI - T3
 
 Processamento de Imagens
 
